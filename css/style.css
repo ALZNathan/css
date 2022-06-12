@@ -105,3 +105,37 @@
     right: 72%;
     top: 6%;
 }
+
+div {
+
+    background: white;
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+}
+
+#hapdiv {
+    background:green;
+    float:right;
+}
+#sadiv{
+    background:pink;
+    float:left;
+    width:106px;
+    height:25px;
+}
+#caldiv{
+
+    background-color: blueviolet;
+
+}
+#claer{
+
+background:blue;
+
+}
+
+#angdiv{
+
+    background:greenyellow;
+}
